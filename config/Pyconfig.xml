@@ -1,0 +1,7 @@
+<configuration>
+<programeentry>
+<programename>read_from_xml.py</programename>
+<xmlname>word-count-config.xml</xmlname>
+<xmlpath>\config\word-count-config.xml</xmlpath>
+</programeentry>
+</configuration>

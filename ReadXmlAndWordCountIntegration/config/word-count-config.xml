@@ -1,0 +1,6 @@
+<config>
+<datapath>
+	<subrootin>\Data\test.txt</subrootin>
+	<subrootout>\Data\result.txt</subrootout>
+</datapath>
+</config>
